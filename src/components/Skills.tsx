@@ -3,8 +3,8 @@ const Skills = () => {
     {
       title: "Frontend Development",
       skills: [
-        { name: "React & Next.js", level: 80 },
-        { name: "TypeScript", level: 60 },
+        { name: "React.js", level: 80 },
+        { name: "TypeScript", level: 50 },
         { name: "Tailwind CSS", level: 80 },
         { name: "Redux / Redux Toolkit", level: 60 },
       ],
