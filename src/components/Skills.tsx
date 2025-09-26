@@ -12,19 +12,18 @@ const Skills = () => {
     {
       title: "Backend Development",
       skills: [
-        { name: "Node.js", level: 85 },
-        { name: "Python", level: 80 },
-        { name: "PostgreSQL", level: 85 },
-        { name: "MongoDB", level: 75 },
+        { name: "Node.js", level: 40 },
+        { name: "Express.js", level: 30 },
+        { name: "MongoDB", level: 30 },
       ],
     },
     {
       title: "Design & Tools",
       skills: [
-        { name: "Figma", level: 90 },
-        { name: "Adobe Creative Suite", level: 85 },
-        { name: "UI/UX Design", level: 90 },
-        { name: "Prototyping", level: 85 },
+        { name: "Figma", level: 50 },
+        { name: "Adobe Creative Suite", level: 60 },
+        { name: "UI/UX Design", level: 50 },
+        { name: "Prototyping", level: 40 },
       ],
     },
   ];
