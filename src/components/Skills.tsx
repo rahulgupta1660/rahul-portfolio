@@ -90,7 +90,7 @@ const Skills = () => {
             >
               <div className="text-center">
                 <div className="text-3xl font-display font-bold text-gradient mb-2">
-                  50+
+                  2+
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Projects Completed
@@ -98,7 +98,7 @@ const Skills = () => {
               </div>
               <div className="text-center">
                 <div className="text-3xl font-display font-bold text-gradient mb-2">
-                  5+
+                  1+
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Years Experience
@@ -106,7 +106,7 @@ const Skills = () => {
               </div>
               <div className="text-center">
                 <div className="text-3xl font-display font-bold text-gradient mb-2">
-                  20+
+                  2+
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Happy Clients
@@ -114,7 +114,7 @@ const Skills = () => {
               </div>
               <div className="text-center">
                 <div className="text-3xl font-display font-bold text-gradient mb-2">
-                  100%
+                  80%
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Satisfaction Rate
