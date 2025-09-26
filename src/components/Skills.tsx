@@ -5,24 +5,24 @@ const Skills = () => {
       skills: [
         { name: "React.js", level: 80 },
         { name: "TypeScript", level: 50 },
-        { name: "Tailwind CSS", level: 80 },
-        { name: "Redux / Redux Toolkit", level: 60 },
+        { name: "Tailwind CSS", level: 75 },
+        { name: "Redux / Redux Toolkit", level: 45 },
       ],
     },
     {
       title: "Backend Development",
       skills: [
         { name: "Node.js", level: 40 },
-        { name: "Express.js", level: 30 },
-        { name: "MongoDB", level: 30 },
+        { name: "Express.js", level: 35 },
+        { name: "MongoDB", level: 45 },
       ],
     },
     {
       title: "Design & Tools",
       skills: [
         { name: "Figma", level: 50 },
-        { name: "Adobe Creative Suite", level: 30 },
-        { name: "UI/UX Design", level: 50 },
+        { name: "Adobe Creative Suite", level: 35 },
+        { name: "UI/UX Design", level: 55 },
         { name: "Prototyping", level: 40 },
       ],
     },
@@ -90,7 +90,7 @@ const Skills = () => {
             >
               <div className="text-center">
                 <div className="text-3xl font-display font-bold text-gradient mb-2">
-                  2+
+                  5+
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Projects Completed
@@ -106,7 +106,7 @@ const Skills = () => {
               </div>
               <div className="text-center">
                 <div className="text-3xl font-display font-bold text-gradient mb-2">
-                  2+
+                  3+
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Happy Clients
@@ -114,7 +114,7 @@ const Skills = () => {
               </div>
               <div className="text-center">
                 <div className="text-3xl font-display font-bold text-gradient mb-2">
-                  80%
+                  90%
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Satisfaction Rate
