@@ -21,7 +21,7 @@ const Skills = () => {
       title: "Design & Tools",
       skills: [
         { name: "Figma", level: 50 },
-        { name: "Adobe Creative Suite", level: 60 },
+        { name: "Adobe Creative Suite", level: 30 },
         { name: "UI/UX Design", level: 50 },
         { name: "Prototyping", level: 40 },
       ],
