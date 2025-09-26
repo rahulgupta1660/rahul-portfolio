@@ -17,7 +17,7 @@ const Footer = () => {
 
           <div className="flex items-center space-x-6">
             <a
-              href="https://github.com"
+              href="https://github.com/rahulgupta1660"
               className="text-muted-foreground hover:text-primary transition-colors duration-200 hover:scale-110 transform"
               target="_blank"
               rel="noopener noreferrer"
@@ -26,7 +26,7 @@ const Footer = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/rahulg6/"
               className="text-muted-foreground hover:text-primary transition-colors duration-200 hover:scale-110 transform"
               target="_blank"
               rel="noopener noreferrer"
@@ -35,7 +35,7 @@ const Footer = () => {
               <Linkedin size={20} />
             </a>
             <a
-              href="mailto:alex@example.com"
+              href="mailto:contact.rahul1910@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors duration-200 hover:scale-110 transform"
               aria-label="Email"
             >
