@@ -49,7 +49,7 @@ const Footer = () => {
             Made with{" "}
             <Heart className="w-4 h-4 text-red-500" fill="currentColor" /> by
             Rahul Gupta
-            <span className="mx-2">•</span>© 2024 All rights reserved
+            <span className="mx-2">•</span>© 2025 All rights reserved
           </p>
         </div>
       </div>
